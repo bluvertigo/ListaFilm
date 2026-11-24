@@ -132,12 +132,12 @@ I numeri rimandano alla lista principale.
 
 ## D. I 10 film da vedere per primi
 
-- [x] 1. Una vita difficile (1961) — storia italiana, Risi e Sordi.
+- [x] 1. **Una vita difficile (1961) — storia italiana, Risi e Sordi.** 💾
 - [ ] 2. Scipione detto anche l'Africano (1971) — storia romana e satira di Magni.
 - [ ] 3. Divorzio all'italiana (1961) — scoperta della satira di Germi.
 - [ ] 4. Guardie e ladri (1951) — comicità e umanità.
 - [ ] 5. Un borghese piccolo piccolo (1977) — Monicelli e Sordi in chiave drammatica.
-- [ ] 6. Il vedovo (1959) — umorismo nero di Risi.
+- [ ] 6. *Il vedovo (1959) — umorismo nero di Risi.* 💾
 - [ ] 7. La famiglia (1987) — affresco corale di Scola.
 - [ ] 8. Detenuto in attesa di giudizio (1971) — critica istituzionale.
 - [ ] 9. L'appartamento (1960) — commedia americana agrodolce.
